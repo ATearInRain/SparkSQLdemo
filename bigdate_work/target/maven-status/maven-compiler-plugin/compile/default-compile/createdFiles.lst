@@ -1,0 +1,7 @@
+entity\User.class
+Dao\impl\SparkDaoImpl.class
+servlet\GetSqlServlet.class
+servlet\GetDatabasesServlet.class
+servlet\ConnectServlet.class
+Dao\SparkDao.class
+servlet\GetTablesServlet.class
