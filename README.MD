@@ -11,5 +11,5 @@ Table.vue为展示查询结果的组件，被解耦成单独文件。
   
   
 后端(bigdate_work/)：tomcat + springMVC  
-src/servlet/：接收前端请求  
-src/Dao/：查询和建立连接使用的方法  
+src/main/java/servlet/：接收前端请求  
+src/main/java/Dao/：查询和建立连接使用的方法  
